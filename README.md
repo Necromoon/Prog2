@@ -1,1 +1,1 @@
-PROG2
+Prog2
